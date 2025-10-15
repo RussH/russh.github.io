@@ -2,7 +2,7 @@
 
 ![Opencats Logo](logos/opencats-logo.png)
 
-This is the repo for the opencats.org website
+This is the repository for the opencats.org website
 =======================
 
 This repository is for the project's website; visit [Opencats repository](https://github.com/opencats/opencats) for more details on the project itself.
