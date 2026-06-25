@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenCATS Website Refresh Preview Index</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="OpenCATS preview index"><span class="brand-mark">OC</span><span>OpenCATS previews</span></a>
+    <nav class="nav" aria-label="Preview navigation">
+      <a href="index.html" aria-current="page">Preview index</a>
+      <a href="home.html">Home</a>
+      <a href="news.html">News</a>
+    </nav>
+  </header>
+  <main>
+    <section class="review-panel" aria-labelledby="preview-title">
+      <p class="eyebrow">Design review only</p>
+      <h1 id="preview-title">Static previews for a warmer OpenCATS website refresh.</h1>
+      <p class="lede">These files are isolated in <code>preview/</code> so reviewers can evaluate the visual direction without changing the production homepage, layouts, includes, navigation data, or main stylesheet.</p>
+      <ul class="review-list" aria-label="Preview pages">
+        <li><a href="home.html">Homepage preview <span>Hero, cards, security callout, footer</span></a></li>
+        <li><a href="news.html">News page preview <span>Secondary page heading and update cards</span></a></li>
+      </ul>
+    </section>
+    <section class="section" aria-labelledby="review-title">
+      <div class="cards">
+        <article class="card"><span class="pill">How to review</span><h2 id="review-title">Check real viewport sizes.</h2><p>Review the concept at desktop width around 1440px, tablet width around 768px, and mobile width around 390px. Confirm hierarchy, spacing, link clarity, and whether the calmer OpenCATS green feels right.</p></article>
+        <article class="card"><span class="pill">Scope</span><h2>Production is unchanged.</h2><p>This preview intentionally avoids editing <code>index.html</code>, <code>_layouts/</code>, <code>_includes/</code>, <code>_data/nav.yml</code>, and <code>css/main.css</code>. It is plain HTML and CSS with no build step.</p></article>
+        <article class="card"><span class="pill">Direction</span><h2>Inspired, not cloned.</h2><p>The visual language borrows the calm editorial pacing, large type, cream surfaces, and restrained green accents requested for the refresh while using OpenCATS-specific content and destinations.</p></article>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><p class="small">Local paths for review: <a href="index.html">/preview/</a>, <a href="home.html">/preview/home.html</a>, and <a href="news.html">/preview/news.html</a>.</p></footer>
+</body>
+</html>
