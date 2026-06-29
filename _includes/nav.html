@@ -1,19 +1,16 @@
 <header class="navbar">
-    <div class="container">
-        <nav class="site-nav">
-            <ul>
+  <div class="container nav-container">
+    <a class="brand" href="/" aria-label="OpenCATS home">
+      <img src="/assets/brand/opencats-logo-placeholder.svg" class="logo" alt="OpenCATS">
+    </a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <ul>
         {% for nav in site.data.nav %}
-            {% if include.active == nav.title %}
-                <li class="current">
-            {% else %}
-                <li>
-            {% endif %}
-                    <a href="{{ nav.url }}">{{ nav.title }}</a>
-                </li>
+          <li{% if include.active == nav.title %} class="current"{% endif %}>
+            <a href="{{ nav.url }}">{{ nav.title }}</a>
+          </li>
         {% endfor %}
-            </ul>
-        </nav>
-<!--       <a href="/"><img src="/images/opencatslogo@2x.png" class="logo" alt="OpenCATS"></a> -->
-           <a href="/"><img src="/logos/opencats-logo.png" class="logo" alt="OpenCATS"></a>
-    </div>
+      </ul>
+    </nav>
+  </div>
 </header>
