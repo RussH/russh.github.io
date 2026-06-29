@@ -1,14 +1,12 @@
-- title: Documentation
+- title: Docs
   url: https://documentation.opencats.org
 - title: Screenshots
   url: /screenshots/
-- title: Live Demo
+- title: Demo
   url: /demo/
 - title: Releases
   url: https://github.com/opencats/OpenCATS/releases/latest
-- title: GitHub Discussions
-  url: https://github.com/opencats/OpenCATS/discussions
-- title: Legacy Forum Archive
-  url: https://forums.opencats.org
-- title: Security Advisories
+- title: Support
+  url: /support/
+- title: Security
   url: https://github.com/opencats/OpenCATS/security/advisories
