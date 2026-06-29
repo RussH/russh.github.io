@@ -1,4 +1,4 @@
-![Opencats Logo](logos/opencats-logo.png)
+![Opencats Logo](assets/brand/logo_and_project_name.svg)
 
 This is the repository for the opencats.org website
 =======================
