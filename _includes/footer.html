@@ -1,15 +1,15 @@
-<footer>
-  <div class="container">
-    <div class="col-wide">
-    {% for nav in site.data.nav %}
-      <a href="{{ nav.url }}">{{ nav.title }}</a>
-      {% unless forloop.last %}
-        &middot;
-      {% endunless %}
-    {% endfor %}
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <img src="/assets/brand/opencats-wordmark-placeholder.svg" class="footer-logo" alt="OpenCATS wordmark placeholder">
+      <p>Free, open-source applicant tracking and recruiting CRM software maintained by the OpenCATS community.</p>
     </div>
-
-    <div class="col-narrow">
+    <nav aria-label="Footer navigation">
+      {% for nav in site.data.nav %}
+        <a href="{{ nav.url }}">{{ nav.title }}</a>
+      {% endfor %}
+    </nav>
+    <div class="footer-meta">
       This site's source is <a href="https://github.com/opencats/opencats.github.io/">hosted on GitHub</a>.
     </div>
   </div>
