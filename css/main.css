@@ -89,3 +89,8 @@ p { margin: 0 0 18px; color: var(--muted); }
   .hero-grid, .section-grid, .split, .cards-three, .footer-grid { grid-template-columns: 1fr; }
   .hero { padding-top: 56px; }
 }
+
+.screenshot-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 28px; margin-top: 36px; }
+.screenshot-card { padding: 24px; border: 1px solid var(--line); border-radius: 28px; background: var(--paper); box-shadow: 0 14px 35px rgba(16,37,63,.06); }
+.screenshot-card img { display: block; width: 100%; border-radius: 22px; border: 1px solid var(--line); margin-bottom: 22px; }
+.screenshot-card h2 { font-size: clamp(28px, 4vw, 40px); }
