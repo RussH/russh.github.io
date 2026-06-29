@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
-  <title id="title">OpenCATS wordmark placeholder</title>
-  <desc id="desc">Vector placeholder space for final OpenCATS wording artwork.</desc>
-  <rect width="720" height="180" rx="36" fill="#f5fbf8"/>
-  <text x="48" y="116" fill="#10253f" font-family="Inter, Lato, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">Open<tspan fill="#2fbf71">CATS</tspan></text>
-  <path d="M532 52h116" stroke="#2fbf71" stroke-width="12" stroke-linecap="round"/>
-  <path d="M532 88h88" stroke="#5ab0ff" stroke-width="12" stroke-linecap="round"/>
-  <path d="M532 124h132" stroke="#10253f" stroke-width="12" stroke-linecap="round"/>
-</svg>
