@@ -3,7 +3,7 @@ permalink: pretty
 markdown: kramdown
 
 title: OpenCATS Applicant Tracking System
-description: "OpenCATS - the free open-source ATS"
+description: "OpenCATS is a free, open-source applicant tracking system and recruiting CRM."
 
 news:
     name: OpenCATS Newsletter

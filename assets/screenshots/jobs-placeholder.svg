@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OpenCATS jobs pipeline screenshot placeholder</title>
+  <desc id="desc">Placeholder image for the OpenCATS jobs pipeline screenshot.</desc>
+  <rect width="1200" height="760" rx="36" fill="#f3f8f5"/>
+  <rect x="82" y="86" width="1036" height="588" rx="30" fill="#ffffff" stroke="#dce8e1" stroke-width="4"/>
+  <rect x="150" y="160" width="250" height="430" rx="24" fill="#edf9f2"/><rect x="475" y="160" width="250" height="430" rx="24" fill="#edf9f2"/><rect x="800" y="160" width="250" height="430" rx="24" fill="#edf9f2"/>
+  <rect x="185" y="220" width="180" height="34" rx="17" fill="#2fbf71"/><rect x="510" y="220" width="180" height="34" rx="17" fill="#5ab0ff"/><rect x="835" y="220" width="180" height="34" rx="17" fill="#10253f"/>
+  <rect x="185" y="315" width="160" height="26" rx="13" fill="#dce8e1"/><rect x="510" y="315" width="160" height="26" rx="13" fill="#dce8e1"/><rect x="835" y="315" width="160" height="26" rx="13" fill="#dce8e1"/>
+  <text x="600" y="650" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#10253f">Jobs pipeline screenshot coming soon</text>
+</svg>

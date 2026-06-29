@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-  <title id="title">OpenCATS mark placeholder</title>
-  <desc id="desc">Vector placeholder space for the OpenCATS logo mark.</desc>
-  <rect width="256" height="256" rx="56" fill="#10253f"/>
-  <path d="M73 143c0-45 32-79 77-79 14 0 27 3 39 10l-16 30a49 49 0 0 0-23-6c-25 0-42 18-42 45s17 45 42 45c9 0 18-2 26-7l15 30a81 81 0 0 1-41 11c-45 0-77-34-77-79Z" fill="#ffffff"/>
-  <path d="M58 64h42l16 28H76L58 64Zm104 0h42l-18 28h-40l16-28Z" fill="#67d38c"/>
-</svg>

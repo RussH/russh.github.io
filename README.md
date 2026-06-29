@@ -1,17 +1,20 @@
-![Opencats Logo](logos/opencats-logo.png)
+![OpenCATS Logo](assets/brand/logo_and_project_name.svg)
 
-This is the repository for the opencats.org website
-=======================
+# opencats.org website
 
-This repository is for the project's website; visit [Opencats repository](https://github.com/opencats/OpenCATS) for more details on the project itself.
+This repository contains the source for the OpenCATS project website at `https://opencats.org`.
 
-## Contributing
-please see contributing.md
+For the applicant tracking system itself, visit the [OpenCATS application repository](https://github.com/opencats/OpenCATS).
 
+## Local development
 
-Open on `https://opencats.org`
+Run the Jekyll site locally with Bundler:
 
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
 ## License
 
-see licensing.md
+See `Licensing.MD` for website licensing notes.

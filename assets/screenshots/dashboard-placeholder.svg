@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OpenCATS dashboard screenshot placeholder</title>
+  <desc id="desc">Placeholder image for the OpenCATS dashboard screenshot.</desc>
+  <rect width="1200" height="760" rx="36" fill="#f3f8f5"/>
+  <rect x="70" y="70" width="1060" height="620" rx="26" fill="#ffffff" stroke="#dce8e1" stroke-width="4"/>
+  <rect x="70" y="70" width="1060" height="86" rx="26" fill="#10253f"/>
+  <circle cx="120" cy="113" r="13" fill="#2fbf71"/><circle cx="162" cy="113" r="13" fill="#5ab0ff"/><circle cx="204" cy="113" r="13" fill="#dce8e1"/>
+  <rect x="120" y="220" width="260" height="130" rx="18" fill="#edf9f2"/><rect x="470" y="220" width="260" height="130" rx="18" fill="#edf9f2"/><rect x="820" y="220" width="260" height="130" rx="18" fill="#edf9f2"/>
+  <rect x="120" y="420" width="960" height="34" rx="17" fill="#dce8e1"/><rect x="120" y="490" width="780" height="34" rx="17" fill="#dce8e1"/><rect x="120" y="560" width="880" height="34" rx="17" fill="#dce8e1"/>
+  <text x="600" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#10253f">Dashboard screenshot coming soon</text>
+</svg>
