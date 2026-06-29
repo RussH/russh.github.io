@@ -1,4 +1,4 @@
-![OpenCATS Logo](assets/brand/logo_and_project_name.svg)
+![Opencats Logo](assets/brand/logo_and_project_name.svg)
 
 # opencats.org website
 
